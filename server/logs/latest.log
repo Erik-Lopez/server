@@ -1,0 +1,21 @@
+[00:35:07] [User Authenticator #3/INFO]: UUID of player Eriklf is 08e04c38-8473-3696-92b5-a417948e6442
+[00:35:07] [Server thread/INFO]: Eriklf joined the game
+[00:35:07] [Server thread/INFO]: Eriklf[/25.108.178.228:54514] logged in with entity id 977 at ([world]3.440908566925918, 67.0, 46.03469929182549)
+[00:35:21] [Server thread/INFO]: Eriklf lost connection: Disconnected
+[00:35:21] [Server thread/INFO]: Eriklf left the game
+[00:35:27] [Server thread/INFO]: Stopping server
+[00:35:27] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v13.8.9
+[00:35:27] [Server thread/INFO]: Saving players
+[00:35:27] [Server thread/INFO]: Saving worlds
+[00:35:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:35:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:35:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[00:35:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:35:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[00:35:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:35:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:35:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:35:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:35:28] [Server thread/INFO]: Flushing Chunk IO
+[00:35:28] [Server thread/INFO]: Closing Thread Pool
+[00:35:28] [Server thread/INFO]: Closing Server
