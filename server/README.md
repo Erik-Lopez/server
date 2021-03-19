@@ -5,6 +5,7 @@
 Para encender el server se debe ejecutar el archivo jar utilizando java:
 
 java -jar server.jar 		//No inicializa ningún plugin
+
 java -jar paper-1.16.5-547.jar 	//Inicializa los plugins
 
 ## SCRIPT GET-UPDATE
